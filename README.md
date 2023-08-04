@@ -29,6 +29,6 @@ Tampilan data-barang-masuk
 Tampilan data-pesanan
 ![data-pes](screenshot/data-pesanan.png)
 Tampilan datails-pesanan
-![det-pes](screenshot/details-pesanan.png)
+![det-pes](screenshot/details-data-pesanan.png)
 Tampilan data-pelanggan
 ![data-pel](screenshot/data-pelanggan.png)
