@@ -17,18 +17,19 @@ git clone https://github.com/ddni7/Pengelolaan-warung.git
 
 cd Pengelolaan-warung
 
+###Tampilan Login
 ![Deskripsi Gambar Login](screenshot/login.png)
-
+####Tampilan Home
 ![Deskripsi Gambar Home](screenshot/home.png)
-
-![Deskripsi Gambar Home](screenshot/stock-barang.png)
-
-![Deskripsi Gambar Home](screenshot/data-barang-masuk.png)
-
-![Deskripsi Gambar Home](screenshot/data-pesanan.png)
-
-![Deskripsi Gambar Home](screenshot/details-pesanan.png)
-
-![Deskripsi Gambar Home](screenshot/data-pelanggan.png)
+#####Tampilan Stock-barang
+![Deskripsi Gambar stock](screenshot/stock-barang.png)
+######Tampilan data-barang-masuk
+![Deskripsi Gambar data-bar](screenshot/data-barang-masuk.png)
+#######Tampilan data-pesanan
+![Deskripsi Gambar data-pes](screenshot/data-pesanan.png)
+########Tampilan datails-pesanan
+![Deskripsi Gambar det-pes](screenshot/details-pesanan.png)
+#########Tampilan data-pelanggan
+![Deskripsi Gambar data-pel](screenshot/data-pelanggan.png)
 
 
