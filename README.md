@@ -10,7 +10,7 @@ Tujuan di buat aplikasi ini untuk memudahkan admin/pengguna dalam mengecheck sto
 4. Pengelolaan pelanggan,
 5. Pengelolaan data pesanan.
 
-#### Untuk langkah-langkah menjalankan app ini baca di Readme.txt
+#### Untuk langkah-langkah menjalankan app ini baca di [Readme.txt](Readme.txt)
 
 ## Tampilan screenshot
 
