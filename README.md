@@ -16,3 +16,19 @@ Buka terminal/gitBash anda
 git clone https://github.com/ddni7/Pengelolaan-warung.git
 
 cd Pengelolaan-warung
+
+![Deskripsi Gambar Login](screenshot/login.png)
+
+![Deskripsi Gambar Home](screenshot/home.png)
+
+![Deskripsi Gambar Home](screenshot/stock-barang.png)
+
+![Deskripsi Gambar Home](screenshot/data-barang-masuk.png)
+
+![Deskripsi Gambar Home](screenshot/data-pesanan.png)
+
+![Deskripsi Gambar Home](screenshot/details-pesanan.png)
+
+![Deskripsi Gambar Home](screenshot/data-pelanggan.png)
+
+
