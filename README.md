@@ -13,7 +13,7 @@ Tujuan di buat aplikasi ini untuk memudahkan admin/pengguna dalam mengecheck sto
 #### Untuk langkah-langkah menjalankan app ini baca di [Readme.txt](Readme.txt)
 
 ### Jangan Lupa bantu Follow
-[Instagram](https://www.instagram.com/ddan_i7/)
+[My Instagram](https://www.instagram.com/ddan_i7/)
 
 ## Tampilan screenshot
 
