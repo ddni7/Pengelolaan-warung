@@ -19,16 +19,16 @@ cd Pengelolaan-warung
 ## Tampilan screenshot
 
 Tampilan Login
-![Deskripsi Gambar Login](screenshot/login.png)
+![Login](screenshot/login.png)
 Tampilan Home
-![Deskripsi Gambar Home](screenshot/home.png)
+![Home](screenshot/home.png)
 Tampilan Stock-barang
-![Deskripsi Gambar stock](screenshot/stock-barang.png)
+![estock](screenshot/stock-barang.png)
 Tampilan data-barang-masuk
-![Deskripsi Gambar data-bar](screenshot/data-barang-masuk.png)
+![data-bar](screenshot/data-barang-masuk.png)
 Tampilan data-pesanan
-![Deskripsi Gambar data-pes](screenshot/data-pesanan.png)
+![data-pes](screenshot/data-pesanan.png)
 Tampilan datails-pesanan
-![Deskripsi Gambar det-pes](screenshot/details-pesanan.png)
+![det-pes](screenshot/details-pesanan.png)
 Tampilan data-pelanggan
-![Deskripsi Gambar data-pel](screenshot/data-pelanggan.png)
+![data-pel](screenshot/data-pelanggan.png)
