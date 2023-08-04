@@ -14,17 +14,23 @@ Tujuan di buat aplikasi ini untuk memudahkan admin/pengguna dalam mengecheck sto
 
 ## Tampilan screenshot
 
-Tampilan Login
+[Tampilan Login](screenshot/login.png)
 ![Login](screenshot/login.png)
-Tampilan Home
+
+[Tampilan Home](screenshot/home.png)
 ![Home](screenshot/home.png)
-Tampilan Stock-barang
+
+[Tampilan Stock-barang](screenshot/stock-barang.png)
 ![estock](screenshot/stock-barang.png)
-Tampilan data-barang-masuk
+
+Tampilan data-barang-masuk(screenshot/data-barang-masuk.png)
 ![data-bar](screenshot/data-barang-masuk.png)
-Tampilan data-pesanan
+
+Tampilan data-pesanan(screenshot/data-pesanan.png)
 ![data-pes](screenshot/data-pesanan.png)
-Tampilan datails-pesanan
+
+Tampilan datails-pesanan(screenshot/details-data-pesanan.png)
 ![det-pes](screenshot/details-data-pesanan.png)
-Tampilan data-pelanggan
+
+Tampilan data-pelanggan(screenshot/data-pelanggan.png)
 ![data-pel](screenshot/data-pelanggan.png)
