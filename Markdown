@@ -13,6 +13,6 @@ Tujuan di buat aplikasi ini untuk memudahkan admin/pengguna dalam mengecheck sto
 ## Langkah 1: Kloning Repositori
 Buka terminal/gitBash anda
 
-git clone https://github.com/username/nama-repo.git
+git clone https://github.com/ddni7/Pengelolaan-warung.git
 
 cd Pengelolaan-warung
