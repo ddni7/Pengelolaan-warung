@@ -27,4 +27,7 @@ Cara Instalasi:
 5. Pada browser ketik 'localhost/namafolder'.
 6. Lalu login dan coba pilih menu yang ada di halaman home tersebut.
 
+# Bantu Follow
+[Instagram](https://www.instagram.com/ddan_i7/)
+
 #NOTE : Untuk web nya baru sebagian fitur tertentu saja, untuk kedepan nya akan di tambahkan lagi fitur-fitur baru. COMING SOON
