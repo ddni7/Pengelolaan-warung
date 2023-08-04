@@ -10,13 +10,13 @@ Tujuan di buat aplikasi ini untuk memudahkan admin/pengguna dalam mengecheck sto
 4. Pengelolaan pelanggan,
 5. Pengelolaan data pesanan.
 
-## Langkah : Kloning Repositori
+### Langkah : Kloning Repositori
 Buka terminal/gitBash anda
 
 git clone https://github.com/ddni7/Pengelolaan-warung.git
 
 cd Pengelolaan-warung
-### Tampilan screenshot
+## Tampilan screenshot
 
 Tampilan Login
 ![Deskripsi Gambar Login](screenshot/login.png)
